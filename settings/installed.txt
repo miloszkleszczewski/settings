@@ -1,0 +1,7 @@
+Key Promoter X
+com.github.copilot
+com.intellij.lang.jsgraphql
+com.intellij.marketplace
+com.squareup.sqldelight
+izhangzhihao.rainbow.brackets
+some.awesome
