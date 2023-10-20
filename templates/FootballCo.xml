@@ -1,0 +1,35 @@
+<templateSet group="FootballCo">
+  <template name="todo" value="// TODO: $date$ $todo$" description="adds // TODO" toReformat="true" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="todo" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="drill" value="// DRILL: $date$ $drill$" description="adds // DRILL" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="drill" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="blocked" value="// BLOCKED_BY: $date$ GM-$blocked$ " description="adds // BLOCKED_BY" toReformat="true" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="blocked" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="refactor" value="// REFACTOR: $date$ $refactor$" description="adds // REFACTOR" toReformat="true" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="refactor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

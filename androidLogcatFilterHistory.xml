@@ -1,0 +1,34 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="favorites">
+      <list>
+        <option value="package:com.freerange360.mpp.GOAL.debug -tag:EGL_emulation -tag:StudioTransport -tag:ziparchive -tag:OTConsentChanges -tag: SdkListHelper -tag:.mpp.GOAL.debug -tag:realimageloader  level:info " />
+      </list>
+    </option>
+    <option name="mostRecentlyUsed" value="package:com.freerange360.mpp.GOAL.debug -tag:EGL_emulation -tag:StudioTransport -tag:ziparchive -tag:OTConsentChanges -tag: SdkListHelper -tag:.mpp.GOAL.debug -tag:realimageloader  level:info milosz" />
+    <option name="nonFavorites">
+      <list>
+        <option value="package:com.freerange360.mpp.GOAL.debug -tag:EGL_emulation -tag:StudioTransport -tag:ziparchive -tag:OTConsentChanges -tag: SdkListHelper -tag:.mpp.GOAL.debug -tag:realimageloader  level:info milosz" />
+        <option value="milosz" />
+        <option value="package:com.freerange360.mpp.GOAL.debug -tag:EGL_emulation -tag:StudioTransport -tag:ziparchive -tag:OTConsentChanges -tag: SdkListHelper -tag:.mpp.GOAL.debug" />
+        <option value="package:com.freerange360.mpp.GOAL.debug -tag:EGL_emulation -tag:StudioTransport -tag:ziparchive -tag:OTConsentChanges -tag: SdkListHelper -tag:.mpp.GOAL.debug level:info milosz" />
+        <option value="package:com.freerange360.mpp.GOAL.debug -tag:EGL_emulation -tag:StudioTransport -tag:ziparchive -tag:OTConsentChanges -tag: SdkListHelper -tag:.mpp.GOAL.debug level:info" />
+        <option value="package:com.freerange360.mpp.GOAL.debug -tag:EGL_emulation -tag:StudioTransport -tag:ziparchive -tag:OTConsentChanges -tag: SdkListHelper level:info " />
+        <option value="package:com.freerange360.mpp.GOAL.debug -tag:EGL_emulation -tag:StudioTransport -tag:ziparchive -tag:OTConsentChanges level:info " />
+        <option value="package:com.freerange360.mpp.GOAL.debug -tag:EGL_emulation -tag:StudioTransport -tag:ziparchive  level:info " />
+        <option value="package:com.freerange360.mpp.GOAL.debug -tag:EGL_emulation -tag:StudioTransport" />
+        <option value="package:com.freerange360.mpp.GOAL.debug -tag:EGL_emulation " />
+        <option value="package:com.freerange360.mpp.GOAL.debug -tag:EGL_emulation lev" />
+        <option value="package:com.freerange360.mpp.GOAL.debug " />
+        <option value="package:com.freerange360.mpp.GOAL.debug -tag:" />
+        <option value="package:com.freerange360.mpp.GOAL.debug tag" />
+        <option value="package:com.freerange360.mpp.GOAL.debug level:debug " />
+        <option value="package:com.perform.livescores" />
+        <option value="package:com.freerange360.mpp.GOAL.debug milosz" />
+        <option value="package:com.freerange360.mpp.GOAL.debug analytics" />
+        <option value="package:com.freerange360.mpp.GOAL.debug leak" />
+        <option value="package:com.freerange360.mpp.GOAL.debug leakcanar" />
+      </list>
+    </option>
+  </component>
+</application>
