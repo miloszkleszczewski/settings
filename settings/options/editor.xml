@@ -29,7 +29,4 @@
       <pattern index="0" />
     </filter>
   </component>
-  <component name="XmlEditorOptions">
-    <option name="selectWholeCssIdentifierOnDoubleClick" value="false" />
-  </component>
 </application>
