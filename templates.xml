@@ -119,6 +119,10 @@
           <option name="key" value="shell_command exists" />
         </TemplateKey>
         <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="object" />
+        </TemplateKey>
+        <TemplateKey>
           <option name="groupName" value="AndroidComments" />
           <option name="key" value="todo" />
         </TemplateKey>
