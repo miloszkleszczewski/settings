@@ -4,13 +4,14 @@
     <property name="created">2018-05-19T16:25:45</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2021-10-08T11:57:34</property>
+    <property name="modified">2023-10-22T10:51:13</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.01" />
-  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="EDITOR_FONT_SIZE" value="20" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="17" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <attributes>
     <option name="DEFAULT_BRACES">
